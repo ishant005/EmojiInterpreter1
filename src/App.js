@@ -8,7 +8,11 @@ const emojis = {
   "😝": "Squinting face with tongue",
   "😖": "Confounded face",
   "😨": "Fearful face",
-  "🥺": "Pleading face"
+  "🥺": "Pleading face",
+  "👋": "Wave",
+  "🤔": "Curious",
+  "😎": "Smart",
+  "🙂": "Sarcastic"
 };
 var emojisWeknow = Object.keys(emojis);
 export default function App() {
